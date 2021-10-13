@@ -16,3 +16,7 @@ Gemfile.lock
 gems.locked
 bin/*
 .bundle/*
+
+# Reports
+*.html
+*.xml
